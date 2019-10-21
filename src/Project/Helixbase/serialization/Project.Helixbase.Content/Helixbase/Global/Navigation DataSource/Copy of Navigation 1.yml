@@ -1,0 +1,27 @@
+﻿---
+ID: "062efdcd-9e9e-471e-b574-c212d28790a5"
+Parent: "da5a33b6-f34d-4cb5-96e3-307462b6c86e"
+Template: "eef1754a-fe2f-48e5-81b0-a47b25beedcf"
+Path: /sitecore/content/Helixbase/Global/Navigation DataSource/Copy of Navigation 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191020T115748Z
+    - ID: "54ee5067-ba2b-4da7-a885-0e37c3b6ce4b"
+      Hint: Navigation Label
+      Value: Home
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6069c3e4-6b54-4a17-8dce-71d7eb02ccd2"
+      Hint: Navigation Target
+      Value: _blank
+    - ID: "6d72a28d-2caa-4220-aa08-6f867d129ba6"
+      Hint: Navigation Link
+      Value: /sitecore/content/Helixbase/Home
